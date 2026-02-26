@@ -1,14 +1,10 @@
 ## Hi, I'm Noble 👋
 
-<!--
-**neiboll/neiboll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 I'm a backend-oriented developer passionate about building structured, reliable and scalable systems.
 
 I enjoy working with APIs, databases, authentication systems, and clean architecture.  
 Currently deepening my backend knowledge through hands-on projects and advanced backend learning paths.
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
